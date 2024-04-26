@@ -1,0 +1,1 @@
+export let urlAPI = "https://ws-nida2024-72645f997179.herokuapp.com/presensi";
